@@ -1,6 +1,29 @@
-# CST3145-refactoring-SFC
-This is the Study Store App
+#  050-header-vue-project
 
-https://github.com/louvina28/CST3145-refactoring-SFC.git
+This template should help get you started developing with Vue 3 in Vite.
 
-https://louvina28.github.io/CST3145-refactoring-SFC/
+## Recommended IDE Setup
+
+[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+
+## Customize configuration
+
+See [Vite Configuration Reference](https://vitejs.dev/config/).
+
+## Project Setup
+
+```sh
+npm install
+```
+
+### Compile and Hot-Reload for Development
+
+```sh
+npm run dev
+```
+
+### Compile and Minify for Production
+
+```sh
+npm run build
+```
